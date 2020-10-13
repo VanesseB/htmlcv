@@ -1,5 +1,5 @@
 # htmlcv
-Simple HTML built CV
+CV I built using HTML.
 
 # License
 
