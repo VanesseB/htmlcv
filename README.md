@@ -3,4 +3,4 @@ CV built using HTML.
 
 # License
 
-Copyright 2020 Vanesse Mngomezulu
+Copyright 2021 Vanesse Mngomezulu
